@@ -24,7 +24,7 @@
 //             // int result3 = num--;                     //post derement 
 //             // System.out.println(result3);
            
-//             int result4 = --num;                     //pre decrement
+//             int result4 = --num;                        //pre decrement
 //             System.out.println(result4);
 //     }    
 // }
@@ -42,17 +42,17 @@
 //         //int y = 9;
 //         //double y = 7.5;
 
-//         //boolean result = x < y;
-//         //boolean result = x > y;
+//         //boolean result = x > y;                //greaterthan
+//         //boolean result = x < y;                //lessthan
         
 //         int x = 5;
 //         int y = 5;
 //         //int y = 7;
 //         //double y = 7.7;
-//         //boolean result = x <= y;
-//         //boolean result = x >= y;
-//         //boolean result = x != y;
-//         boolean result = x == y;
+//         //boolean result = x <= y;               //lessthan orequalto               
+//         //boolean result = x >= y;               //greaterthan or  equalto
+//         //boolean result = x != y;               //not equal to
+//         boolean result = x == y;                 //equal too
 
 //         System.out.println(result);
 //         }
@@ -74,6 +74,7 @@ public class dcp2 {
         //boolean result = x < y && a < b;
         //boolean result = x < y && a > b && y < 7.7;
         
+        
         //or 
         //boolean result = x > y || a < b;
         //boolean result = x < y || a > b;
@@ -83,7 +84,5 @@ public class dcp2 {
 
         //not
         System.out.println(!result);
-
-
-    }
+        }
 }

@@ -1,6 +1,7 @@
 //variables example code
 
-// class dcp1 
+
+// public class dcp1 
 //  {
 //     public static void main(String[] var0) 
 //     {

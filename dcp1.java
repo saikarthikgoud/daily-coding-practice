@@ -31,5 +31,4 @@ public class dcp1
         int t = (int) f;
         System.out.println(t);
     }
-
 }

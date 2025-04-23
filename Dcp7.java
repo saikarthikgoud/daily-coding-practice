@@ -296,15 +296,5 @@ public class Dcp7
         int r1 =obj.add(4, 8);
         System.out.println(r1);
     }
-
-    
 }
-
-
-
-
-
-
-
-
 

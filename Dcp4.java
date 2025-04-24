@@ -1,5 +1,5 @@
 // //while loop example code
-// public class dcp4
+// public class Dcp4
 // {
 //     public static void main(String[] args) 
 //     {
@@ -17,7 +17,7 @@
 
 
 // //nested while loop example code
-// public class dcp4 
+// public class Dcp4 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -43,7 +43,7 @@
 
 
 // //do while loop example code
-// public class dcp4 
+// public class Dcp4 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -59,7 +59,7 @@
 
 
 // // for loop example code
-// public class dcp4 
+// public class Dcp4 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -75,8 +75,10 @@
 
 
 
+
+
 //for loop example code 2
-public class dcp4
+public class Dcp4
 {
     public static void main(String[] args) 
     {

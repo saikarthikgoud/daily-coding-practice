@@ -15,7 +15,7 @@
 // }
 
 
-// public class dcp5 
+// public class Dcp5 
 // {
 //         public static void main(String[] args) 
 //     {
@@ -53,7 +53,7 @@
 //     }
 // }
 
-// public class dcp5 
+// public class Dcp5 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -88,7 +88,7 @@
 //     }
 // }
 
-// public class dcp5
+// public class Dcp5
 // {
 //     public static void main(String[] args) 
 //     {
@@ -102,7 +102,7 @@
 
 
 // //array example code
-// public class dcp5 
+// public class Dcp5 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -131,7 +131,7 @@
 
 
 // // Multidimensional array example code
-// public class dcp5 
+// public class Dcp5 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -176,9 +176,12 @@
 
 
 
+
+
+
 // //jaggad multidimensional  array example code
 
-// public class dcp5 
+// public class Dcp5 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -215,7 +218,7 @@
 
 
 // //3dimensional array example code
-// public class dcp5 
+// public class Dcp5 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -260,7 +263,7 @@
 //     int marks;
 // }
 
-// public class dcp5 {
+// public class Dcp5 {
 //     public static void main(String[] args) {
 //         student s1 = new student();
 //         s1.rollno = 1;
@@ -296,7 +299,7 @@ class student {
     int marks;
 }
 
-public class dcp5 {
+public class Dcp5 {
     public static void main(String[] args) {
         student s1 = new student();
         s1.rollno = 1;

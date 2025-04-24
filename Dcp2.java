@@ -1,5 +1,5 @@
 // //arthmetic operators example code
-// public class dcp2 
+// public class Dcp2 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -34,7 +34,7 @@
 
 
 // //relational opertors example code
-// public class dcp2 
+// public class Dcp2 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -61,7 +61,7 @@
 
 
 //logical operators example code
-public class dcp2 {
+public class Dcp2 {
 
     public static void main(String[] args) {
         int x = 6;
@@ -81,7 +81,6 @@ public class dcp2 {
         boolean result = x < y || a > 8.9 || a > b;
 
         System.out.println(result);
-
         //not
         System.out.println(!result);
         }

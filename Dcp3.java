@@ -1,5 +1,5 @@
 // // if example code
-// public class dcp3 
+// public class Dcp3 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -18,7 +18,7 @@
 
 
 // //if else example code
-// public class dcp3 
+// public class Dcp3 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -53,7 +53,7 @@
 
 
 // // if else if example code
-// public class dcp3 
+// public class Dcp3 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -77,7 +77,7 @@
 
 
 // // ternary operator code
-// public class dcp3 
+// public class Dcp3 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -105,7 +105,7 @@
 
 
 // // switch statement example code
-// public class dcp3 
+// public class Dcp3 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -145,8 +145,10 @@
 
 
 
+
+
 // switch statement latest example code
-public class dcp3 
+public class Dcp3 
 {
     public static void main(String[] args) 
     {

@@ -156,9 +156,6 @@
 
 
 
-
-
-
 // //enum example code 
 // enum days
 // {
@@ -375,7 +372,7 @@
 
 
 
-//lambda expression example code 
+//lambda expression example code without lambda expression 
 // @FunctionalInterface
 // interface A 
 // {
@@ -394,6 +391,7 @@
 
 
 
+//lambda expression example code with lambda expression 
 
 // @FunctionalInterface
 // interface A 
@@ -422,7 +420,35 @@
 
 
 
-//lambda expression with return example code 
+// //lambda expression with return example code without lambda expression
+// @FunctionalInterface
+// interface A 
+// {
+//     int add(int i , int j);
+// }
+
+// public class Dcp9 
+// {
+//     public static void main(String[] args) 
+//     {
+//         A obj = new A() 
+//         {
+//             public int add(int i , int j)
+//             {
+//                 return i + j;
+//             }
+//         };
+//         int result = obj.add(5, 7);
+//         System.out.println(result);
+//     }
+// }
+
+
+
+
+
+
+//lambda expression with return example code with lambda expression
 @FunctionalInterface
 interface A 
 {
@@ -433,13 +459,8 @@ public class Dcp9
 {
     public static void main(String[] args) 
     {
-        A obj = new A() 
-        {
-            public int add(int i , int j)
-            {
-                return i + j;
-            }
-        };
+        A obj = ( i , j) ->  i + j;
+       
         int result = obj.add(5, 7);
         System.out.println(result);
     }

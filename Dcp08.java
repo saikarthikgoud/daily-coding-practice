@@ -30,7 +30,7 @@
 
 
 // import other.*;
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -74,7 +74,7 @@
 //     }
 
 // }
-// public class Dcp8 
+// public class Dc0p8 
 // {
 
 //     public static void main(String[] args) 
@@ -100,7 +100,7 @@
 
 //final keyword variable example code 
 
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 
@@ -142,7 +142,7 @@
 // }
 
 
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -209,7 +209,7 @@
 //     //     return this.model.equals(that.model)&& this.prize ==that.prize;
 //     // }
 // }
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -254,7 +254,7 @@
 // }
 
 
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 //     { 
@@ -279,7 +279,7 @@
 
 
 // //wrapper class  example code
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -326,7 +326,7 @@
 //         System.out.println("driving");
 //     }
 // }
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -364,7 +364,7 @@
 
 // }
 
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args)
 //     {
@@ -402,7 +402,7 @@
 // //         System.out.println("in B show");
 // //     }
 // // } 
-// public class Dcp8 
+// public class Dcp08 
 // {
 //     public static void main(String[] args)
 //     {
@@ -442,7 +442,7 @@ abstract class A
 // }
 
 
-public class Dcp8 
+public class Dcp08 
 {
     public static void main(String[] args)
     {

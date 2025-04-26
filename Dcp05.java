@@ -15,7 +15,7 @@
 // }
 
 
-// public class Dcp5 
+// public class Dcp05 
 // {
 //         public static void main(String[] args) 
 //     {
@@ -53,7 +53,7 @@
 //     }
 // }
 
-// public class Dcp5 
+// public class Dcp05 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -88,7 +88,7 @@
 //     }
 // }
 
-// public class Dcp5
+// public class Dcp05
 // {
 //     public static void main(String[] args) 
 //     {
@@ -102,7 +102,7 @@
 
 
 // //array example code
-// public class Dcp5 
+// public class Dcp05 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -131,7 +131,7 @@
 
 
 // // Multidimensional array example code
-// public class Dcp5 
+// public class Dcp05 
 // {
 //     public static void main(String[] args) 
 //     {

@@ -28,7 +28,7 @@
 //     }
 // }
 
-// public class Dcp7
+// public class Dcp07
 // {
 //     public static void main(String[] args) 
 //     {
@@ -56,7 +56,7 @@
 //     }
 // }
 
-// public class Dcp7 
+// public class Dcp07 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -103,7 +103,7 @@
 
 
 
-// public class Dcp7 
+// public class Dcp07 
 // {
 //         public static void main(String[] args) 
 //         {
@@ -168,7 +168,7 @@
 
 
 
-// public class Dcp7 
+// public class Dcp07 
 // {
 //         public static void main(String[] args) 
 //         {
@@ -221,7 +221,7 @@
 // }
 
 
-// public class Dcp7 
+// public class Dcp07 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -255,7 +255,7 @@
 //     }
 // }
 
-// public class Dcp7 
+// public class Dcp07 
 // {
 //     public static void main(String[] args) 
 //     {

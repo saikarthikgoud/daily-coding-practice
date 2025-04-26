@@ -1,5 +1,5 @@
 ////string example code
-// public class Dcp6 
+// public class Dcp06 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -18,7 +18,7 @@
 
 
 // // stringbuffer example code 
-// public class Dcp6 
+// public class Dcp06 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -39,7 +39,7 @@
 
 
 // // //stringbuilder example code
-// // public class Dcp6 
+// // public class Dcp06 
 // // {
 // //     public static void main(String[] args) 
 // //     {
@@ -72,7 +72,7 @@
 //         System.out.println(name + ": " + rollno + ": " + section + ": " + marks);
 //     }
 // }
-// public class Dcp6 
+// public class Dcp06 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -113,7 +113,7 @@
 
 
 // //stringbuilder example code
-// public class Dcp6 
+// public class Dcp06 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -151,7 +151,7 @@
 //         System.out.println(s.name + ": " + s.rollno + ": " + s.section + ": " + s.marks);
 //     }
 // }
-// public class Dcp6 
+// public class Dcp06 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -221,7 +221,7 @@
 //     }
 // }
     
-// public class Dcp6 
+// public class Dcp06 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -263,7 +263,7 @@ class human
 
 
 
-public class Dcp6 
+public class Dcp06 
 {
     public static void main(String[] args) 
     {

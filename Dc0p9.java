@@ -21,7 +21,7 @@
 //         System.out.println("driving");
 //     }
 // }
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -69,7 +69,7 @@
 //     }
 // } 
 
-// public class Dcp9
+// public class Dcp09
 // {
 //     public static void main(String[] args)
 //     {
@@ -136,7 +136,7 @@
 //         System.out.println("running");
 //     }
 // }
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -161,7 +161,7 @@
 // {
 //     monday,tuesday,wednesday,thursday,friday,saturday,sunday;
 // }
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -190,7 +190,7 @@
 // {
 //     monday,tuesday,wednesday,thursday,friday,saturday,sunday;
 // }
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -269,7 +269,7 @@
     
     
 // }
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -314,7 +314,7 @@
 //     }
 // }
 
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args)
 //     {
@@ -346,7 +346,7 @@
 // //     }
 // // }
 
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -380,7 +380,7 @@
 // }
 
 
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -399,7 +399,7 @@
 //     void code(int i);
 // }
 
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -427,7 +427,7 @@
 //     int add(int i , int j);
 // }
 
-// public class Dcp9 
+// public class Dcp09 
 // {
 //     public static void main(String[] args) 
 //     {
@@ -455,7 +455,7 @@ interface A
     int add(int i , int j);
 }
 
-public class Dcp9 
+public class Dcp09 
 {
     public static void main(String[] args) 
     {

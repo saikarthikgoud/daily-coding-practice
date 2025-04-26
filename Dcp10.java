@@ -359,10 +359,6 @@
 
 
 
-
-
-
-
 //try with resourses 
 
 import java.io.BufferedReader;
@@ -379,8 +375,6 @@ public class Dcp10
             num = Integer.parseInt(br.readLine());
             System.out.println(num);
 
-        } 
- 
-        
+        }   
     }    
 }

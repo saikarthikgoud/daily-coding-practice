@@ -96,6 +96,7 @@ class Student
 }
 
 
+
 public class Dcp16 {
 
     public static void main(String[] args) {
